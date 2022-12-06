@@ -3,8 +3,8 @@ import SideNavbar from "../components/SideNavbar";
 
 function Crawler() {
   return (
-    <div>
-      <nav>
+    <div className="flex h-80">
+      <nav className="">
         <SideNavbar />
       </nav>
     </div>
